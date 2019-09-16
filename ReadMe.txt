@@ -1,0 +1,1 @@
+Make sure releases.csv is in the right place.
